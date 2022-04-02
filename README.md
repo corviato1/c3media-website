@@ -20,6 +20,8 @@
 9- Storage and distribution pathways(web3 & web2)
 
 
-**Needed
+
+## Needed
 Media - links
+
 Media- imbedded 
